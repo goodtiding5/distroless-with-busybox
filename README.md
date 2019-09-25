@@ -31,7 +31,7 @@ $ for f in $(./busybox --list); do ln -f busybox $f; done
 ## Have Fun! ##
 
 Now you can use your normal *Docker* magic to create your 
-[distroless-with-busybox](https://github.com/goodtiding5/distroless-with-busybox]
+[distroless-with-busybox](https://github.com/goodtiding5/distroless-with-busybox)
 image.
 
 A ready made image can be pulled from Docker hub.
